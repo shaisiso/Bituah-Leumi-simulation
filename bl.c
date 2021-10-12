@@ -1,6 +1,6 @@
 /*
-*	Shai Siso - 312160344
-*	Shahar Avital - 205715642
+*	Shai Siso 
+*	Shahar Avital 
 */
 
 #include "BituachLeumi.h"
