@@ -2,7 +2,7 @@
  * BituachLeumi.h
  *
  *  Created on: May 28, 2020
- *      Author: rsivan
+ *     
  */
 
 #ifndef BITUACHLEUMI_H_
